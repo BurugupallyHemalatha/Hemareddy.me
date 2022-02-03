@@ -284,7 +284,7 @@ img {
 /*==============HOME================*/
 
 .home {
-    background-image: url('/assets/img/books.jpg');
+    background-image: url(/assets/img/books.jpg);
 }
 
 .home__container {
